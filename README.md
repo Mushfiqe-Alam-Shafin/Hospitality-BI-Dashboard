@@ -71,5 +71,6 @@ Revenue Optimization: Helps the team understand revenue trends, allowing for pro
 Operational Efficiency: Provides insights into booking platforms and cancellation rates, helping to streamline marketing efforts and improve customer satisfaction.
 
 Competitive Advantage: Transforms raw data into a strategic asset, empowering AtliQ Grands to regain its market share by becoming a data-driven organization.
+![Alt text].(http://github.com/username/repo/assets/image.JPG).
 
 ScreenShoot:![Dashboard Preview]. https://github.com/Mushfiqe-Alam-Shafin/Hospitality-BI-Dashboard/b[lob/main/Snapshot.JPG
