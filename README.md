@@ -1,5 +1,8 @@
 # Hospitality-BI-Dashboard
 This Power BI dashboard provides a data-driven solution for AtliQ Grands, a five-star hotel chain aiming to regain market share. 
+
+Dashboard Preview:
+![Dashboard Overview](Snapshot.JPG)
 🏨 Project Overview
 This project presents a business intelligence solution for AtliQ Grands, a prominent five-star hotel chain in India. In response to increasing competition and a decline in market share, the management at AtliQ Grands has decided to leverage data to make smarter, data-driven decisions. As a data analyst, I developed this dashboard to provide a comprehensive, 360-degree view of the hotel chain's performance, addressing the lack of an in-house data analytics team.
 
@@ -71,6 +74,3 @@ Revenue Optimization: Helps the team understand revenue trends, allowing for pro
 Operational Efficiency: Provides insights into booking platforms and cancellation rates, helping to streamline marketing efforts and improve customer satisfaction.
 
 Competitive Advantage: Transforms raw data into a strategic asset, empowering AtliQ Grands to regain its market share by becoming a data-driven organization.
-Dashboard Preview:
-![Dashboard Overview](Snapshot.JPG)
-
