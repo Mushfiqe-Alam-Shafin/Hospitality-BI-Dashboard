@@ -72,4 +72,4 @@ Operational Efficiency: Provides insights into booking platforms and cancellatio
 
 Competitive Advantage: Transforms raw data into a strategic asset, empowering AtliQ Grands to regain its market share by becoming a data-driven organization.
 
-ScreenShoot: 
+ScreenShoot: https://github.com/Mushfiqe-Alam-Shafin/Hospitality-BI-Dashboard/blob/main/Snapshot.JPG
